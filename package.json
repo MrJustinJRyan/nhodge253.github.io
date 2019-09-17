@@ -1,0 +1,24 @@
+{
+  "name": "nhodge253.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrJustinJRyan/nhodge253.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/MrJustinJRyan/nhodge253.github.io/issues"
+  },
+  "homepage": "https://github.com/MrJustinJRyan/nhodge253.github.io#readme"
+}
